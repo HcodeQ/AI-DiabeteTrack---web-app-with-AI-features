@@ -1,7 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 preview 
-![Capture d'écran 2025-04-03 213343](https://github.com/user-attachments/assets/8a72947c-ea9f-4d3d-9532-7f5f19037d1c)![Capture d'écran 2025-04-03 213334](https://github.com/user-attachments/assets/1f8048d0-03bd-425b-a550-38797dc8ae7f)
 
 Video example : 
 ![ezgif-3644421f989f49](https://github.com/user-attachments/assets/a672c2c8-6f9a-404b-b799-57b847543741)
@@ -9,6 +8,9 @@ Video example :
 mobile format :
 https://github.com/user-attachments/assets/c7f775fe-0ce5-4f75-b4c5-1392089f32de
 
+captures 
+![Capture d'écran 2025-04-03 213343](https://github.com/user-attachments/assets/8a72947c-ea9f-4d3d-9532-7f5f19037d1c)
+![Capture d'écran 2025-04-03 213334](https://github.com/user-attachments/assets/1f8048d0-03bd-425b-a550-38797dc8ae7f)
 ![Capture d'écran 2025-04-03 213327](https://github.com/user-attachments/assets/3458a4a3-0b5d-4cef-9b93-f7643d15f13e)
 
 ## Getting Started
